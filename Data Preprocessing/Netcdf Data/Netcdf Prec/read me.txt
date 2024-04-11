@@ -1,0 +1,1 @@
+load your precipitation data in netcdf format in this folder
